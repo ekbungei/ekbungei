@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ekbungei
-- 👀 I’m interested in mastering php and Mysql 
-- 🌱 I’m currently learning HTMl and CSS
-- 💞️ I’m looking to collaborate on designing and building a college management system
+- 👀 I’m interested in Data Science, IoT and Block Chain
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate with other techies with my interest
 - 📫 How to reach me ebkiplagat@gmail.com
 
 <!---
